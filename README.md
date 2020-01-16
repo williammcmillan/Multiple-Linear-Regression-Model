@@ -2,4 +2,4 @@ This project works with the King County House Sales dataset. The dataset has bee
 
 The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions relating to what the data means.
 
-You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. 
+In this project, I clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. 
